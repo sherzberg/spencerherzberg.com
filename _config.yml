@@ -4,6 +4,8 @@ email: spencer.herzberg@gmail.com
 description: "Personal Blog"
 baseurl: ""
 url: "http://spencerherzberg.com"
+username: sherzberg
+tu: linuxconvert
 
 # Build settings
 markdown: kramdown
