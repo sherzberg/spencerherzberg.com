@@ -1,0 +1,11 @@
+# Site settings
+title: Spencer Herzberg's Blog
+email: spencer.herzberg@gmail.com
+description: "Personal Blog"
+baseurl: ""
+url: "http://spencerherzberg.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+pygments: true
